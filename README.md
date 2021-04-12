@@ -2,4 +2,4 @@
 
 # Fragments
 
-* [使用 FragmentManager 來切換 fragments](tree/mgr)
+* [使用 FragmentManager 切換 fragments](tree/mgr)
